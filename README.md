@@ -23,8 +23,10 @@ The aim of this project is to group images of handwritten numbers together using
 K-means clustering is a technique used in unsupervised machine learning that organizes similar data points into clusters, helping to uncover underlying patterns within the dataset, which aligns well with the objectives of this project. 
 
 ## Data
-A digits dataset containing 5620 records that can be used to train the machine-learning model has been found. 
+A digits dataset containing 1797 records that can be used to train the machine-learning model has been found. 
 
 
 ## Conclusions
-TBD...
+- Label 3 has the highest count.
+  
+The model struggled with accurately identifying handwritten digits, suggesting that there is potential for enhancing its predictive abilities. It seems that the challenges lie more with the handwritten data itself rather than the model's performance. Recall that the model was developed using handwritten digits collected from 30 different individuals in Turkey.
