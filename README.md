@@ -19,7 +19,7 @@ The aim of this project is to group images of handwritten numbers together using
 
 
 
-#### Why use a multiivariate forecasting algorithm to predict future energy output?
+#### Why use a K-Means model to predict future energy output?
 K-means clustering is a technique used in unsupervised machine learning that organizes similar data points into clusters, helping to uncover underlying patterns within the dataset, which aligns well with the objectives of this project. 
 
 ## Data
